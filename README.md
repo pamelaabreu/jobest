@@ -1,4 +1,4 @@
-Jo is the Best - a [website](https://jo-isthebest.web.app/) dedicated to my good friend Jo 💖
+## Jo is the Best - a [website](https://jo-isthebest.web.app/) dedicated to my good friend Jo 💖
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
